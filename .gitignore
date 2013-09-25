@@ -1,0 +1,4 @@
+*.v11.suo
+*.suo
+bin/
+obj/
