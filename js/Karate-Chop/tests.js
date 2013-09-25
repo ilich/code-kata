@@ -1,4 +1,4 @@
-var VERSION_TO_TEST = 1,
+var VERSION_TO_TEST = 5,
 	chop = require('./version' + VERSION_TO_TEST).chop;
 	
 exports.testChop = function (test) {
